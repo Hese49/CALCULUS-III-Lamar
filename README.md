@@ -8,3 +8,5 @@ This repository contains Notebooks for Lamar University's Calculus III online ma
 * 17.6 Divergence Theorem
   
 The excellent lectures of Paul Dawkins can be found at http://tutorial.math.lamar.edu/index.aspx.
+
+You can find more vector analysis problems solved with Python in my other repository **Hese49/Vector-Analysis**
